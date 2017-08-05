@@ -1,0 +1,6 @@
+git init
+git add  1.txt
+git commit  -m "修改信息"
+git push -u origin master #将本地修改提交到远程
+
+git pull  origin master #将远程修改提交到远程本地
