@@ -3,7 +3,7 @@
 #### 分布式和管理系统示意图:
 ![Alt text](https://github.com/chenfenghui/big_data_tools/blob/master/picture/%E5%88%86%E5%B8%83%E5%BC%8F%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F.jpg)
 ### 命令:
-- [初始化] git init    
+- [初始化] 'git init'    
 git add  1.txt  
 git commit  -m               #修改信息 
 git push -u origin master   #将本地修改提交到远程  
