@@ -1,8 +1,8 @@
 <p align="center">
  <a href="https://git-scm.com/">
- <img src="https://github.com/chenfenghui/big_data_tools/blob/master/picture/git_flag.jpg" width=72 height=72>
+ <img src="https://github.com/chenfenghui/big_data_tools/blob/master/picture/git_flag.jpg" width=100 height=50>
   </a>
-  <h3 align="center">git</h3>
+  <h align="center">git</h>
 </p>
 
 
