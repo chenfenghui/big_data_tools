@@ -2,7 +2,6 @@
  <a href="https://git-scm.com/">
  <img src="https://github.com/chenfenghui/big_data_tools/blob/master/picture/git_flag.jpg" width=100 height=50>
   </a>
-  <h align="center">git</h>
 </p>
 
 
